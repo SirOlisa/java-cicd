@@ -34,7 +34,7 @@ Lol, sorry. I know you didn't see what exactly I did so here's the explanation
 - Put one asterisk on either side of it
 
 ### You can also deploy an image 
-![image](https://images.app.goo.gl/Mb9zjhfMqKeJMdNm9)
+![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*xUp9Rb0fw4LIbFon7FGcNw.png)
 
 You can accomplish this by:
 - Creating an exclamation mark, a square bracket[] and parentheses() side by side
